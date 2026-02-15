@@ -1,4 +1,5 @@
 # SOLID PRINCIPLES
+
 Solid Principles are the foundation of programming. Solid Principle allows code to be reusable, scalable and maintainable.
 
 - S - SINGLE RESPONSIBILITY PRINICPLE
@@ -7,7 +8,7 @@ Solid Principles are the foundation of programming. Solid Principle allows code 
 - I - INTERFACE SEGREGATION PRINCIPLE
 - D - DEPENDENCY INVERSION PRINCIPLE
 
----------------------
+---
 
 2. Open/Closed Principle (OCP)
 
